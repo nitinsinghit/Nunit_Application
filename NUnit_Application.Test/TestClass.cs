@@ -1,6 +1,5 @@
 ﻿using System;
-using NUnit;
-using NUnit_Application;
+
 using NUnit.Framework;
 
 namespace NUnit_Application.Test
